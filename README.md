@@ -1,2 +1,2 @@
 # Yaff-Client-Source-Code
-Исходный код клиента Yaff (Minecraft 1.12.2)
+client dev: https://vk.com/d.yakubenko2015 (_*retarded*_)
